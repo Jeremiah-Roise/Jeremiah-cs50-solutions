@@ -1,0 +1,15 @@
+:root {
+    --bs-nav-link-color: White;
+    --bs-nav-link-hover-color: White;
+    --bs-navbar-active-color: White;
+}
+
+body {
+    background-color: Black;
+}
+
+p {
+    color: White;
+    margin: 1em;
+    border: 1px solid DarkSlateGrey;
+}

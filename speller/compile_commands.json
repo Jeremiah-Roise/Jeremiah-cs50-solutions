@@ -1,0 +1,52 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/clang",
+      "-ggdb3",
+      "-gdwarf-4",
+      "-O0",
+      "-Qunused-arguments",
+      "-std=c11",
+      "-Wall",
+      "-Werror",
+      "-Wextra",
+      "-Wno-gnu-folding-constant",
+      "-Wno-sign-compare",
+      "-Wno-unused-parameter",
+      "-Wno-unused-variable",
+      "-Wshadow",
+      "-c",
+      "-o",
+      "speller.o",
+      "speller.c"
+    ],
+    "directory": "/home/jeremiah/Documents/Code/cs50/speller",
+    "file": "/home/jeremiah/Documents/Code/cs50/speller/speller.c",
+    "output": "/home/jeremiah/Documents/Code/cs50/speller/speller.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/clang",
+      "-ggdb3",
+      "-gdwarf-4",
+      "-O0",
+      "-Qunused-arguments",
+      "-std=c11",
+      "-Wall",
+      "-Werror",
+      "-Wextra",
+      "-Wno-gnu-folding-constant",
+      "-Wno-sign-compare",
+      "-Wno-unused-parameter",
+      "-Wno-unused-variable",
+      "-Wshadow",
+      "-c",
+      "-o",
+      "dictionary.o",
+      "dictionary.c"
+    ],
+    "directory": "/home/jeremiah/Documents/Code/cs50/speller",
+    "file": "/home/jeremiah/Documents/Code/cs50/speller/dictionary.c",
+    "output": "/home/jeremiah/Documents/Code/cs50/speller/dictionary.o"
+  }
+]

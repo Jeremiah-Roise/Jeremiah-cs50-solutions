@@ -1,0 +1,11 @@
+sort1 uses: bubble sort
+
+How do you know?: it took the longest by far with an average time of 4.8073 seconds.
+
+sort2 uses: merge sort
+
+How do you know?: it had the lowest average time 0.0191 seconds.
+
+sort3 uses: Selection sort
+
+How do you know?: it must be because its not as bad as sort1 and not as good as sort2.

@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "cs50.h": "c",
+        "*.tcc": "c",
+        "*.rh": "c"
+    }
+}

@@ -1,0 +1,16 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-g",
+      "-Wall",
+      "-o",
+      "tideman",
+      "tideman.c"
+    ],
+    "directory": "/home/jeremiah/Documents/Code/cs50/tideman",
+    "file": "/home/jeremiah/Documents/Code/cs50/tideman/tideman.c",
+    "output": "/home/jeremiah/Documents/Code/cs50/tideman/tideman"
+  }
+]

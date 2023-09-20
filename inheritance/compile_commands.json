@@ -1,0 +1,24 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-g",
+      "-std=c11",
+      "-Wall",
+      "-Werror",
+      "-Wextra",
+      "-Wno-gnu-folding-constant",
+      "-Wno-sign-compare",
+      "-Wno-unused-parameter",
+      "-Wno-unused-variable",
+      "-Wshadow",
+      "-o",
+      "inheritance",
+      "inheritance.c"
+    ],
+    "directory": "/home/jeremiah/Documents/Code/cs50/inheritance",
+    "file": "/home/jeremiah/Documents/Code/cs50/inheritance/inheritance.c",
+    "output": "/home/jeremiah/Documents/Code/cs50/inheritance/inheritance"
+  }
+]
